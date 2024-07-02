@@ -1,0 +1,2 @@
+model_checkpoint_path: "Emotional_Analysis-model"
+all_model_checkpoint_paths: "Emotional_Analysis-model"
